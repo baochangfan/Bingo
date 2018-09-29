@@ -28,6 +28,10 @@ url_launcher: ^3.0.1
 
 <img src="https://raw.githubusercontent.com/baochangfan/Bingo/master/screenshot/S80929-095228.jpg" width="280"> 
 
+<h3>项目参照:</h3>
+
+https://github.com/CarGuo/GSYGithubAppFlutter.git
+
 
 ## Getting Started
 
