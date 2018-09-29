@@ -1,6 +1,6 @@
 # flutter_bingo
 
-A new Flutter application.
+Bingo 游戏flutter实现，flutter redux全局状态管理学习项目
 
 ## Getting Started
 
