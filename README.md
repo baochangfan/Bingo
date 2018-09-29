@@ -17,7 +17,7 @@ url_launcher: ^3.0.1
 
 截图:
 
-<img src="https://raw.githubusercontent.com/baochangfan/Bingo/master/screenshot/S80929-095048.jpg" width="100" alt="首页"> 
+<img src="https://raw.githubusercontent.com/baochangfan/Bingo/master/screenshot/S80929-095048.jpg" width="200"> 
 
 
 ## Getting Started
